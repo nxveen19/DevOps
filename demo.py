@@ -1,0 +1,1 @@
+print("pati fauj me")
